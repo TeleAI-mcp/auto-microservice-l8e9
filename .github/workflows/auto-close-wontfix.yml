@@ -12,4 +12,4 @@ jobs:
       - name: Close issue
         uses: peter-evans/close-issue@v3
         with:
-          comment: This issue has been automatically closed because it was labeled as 'wontfix'.
+          comment: This issue has been automatically closed because it was labeled as wontfix.
